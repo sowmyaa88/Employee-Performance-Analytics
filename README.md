@@ -7,7 +7,6 @@
 ![pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-orange)
 ![SQLite](https://img.shields.io/badge/SQLite-KPI%20Aggregation-green)
 ![Quality Gate](https://img.shields.io/badge/Quality%20Gate-ruff%20%2B%20black%20%2B%20mypy-yellow)
-![Status](https://img.shields.io/badge/Status-Portfolio%20Project-purple)
 [![CI](https://github.com/AmirhosseinHonardoust/Employee-Performance-Analytics/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AmirhosseinHonardoust/Employee-Performance-Analytics/actions/workflows/ci.yml)
 
 </div>
@@ -451,18 +450,4 @@ Potential next improvements:
 - GitHub Actions
 - Dependabot
 
----
 
-## Author
-
-**Amir Honardoust**
-
-GitHub: [@AmirhosseinHonardoust](https://github.com/AmirhosseinHonardoust)
-
----
-
-## License
-
-Licensed under the **MIT License**, see [LICENSE](LICENSE) for the full text.
-
-This project is intended for educational, research, and portfolio purposes.
